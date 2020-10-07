@@ -1,0 +1,11 @@
+.index-module__home___3jjZE {
+  min-height: 100vh;
+}
+.index-module__swiper-box___xFBfI {
+  height: 350rpx;
+}
+.index-module__swiper-item___lxWXG {
+  height: 100%;
+  width: 100%;
+}
+
